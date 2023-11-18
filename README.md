@@ -1,6 +1,7 @@
 # healthy_food_mobile_app
 
-A new Flutter project.
+A new Flutter project. 
+###This app is under development. Please, guve me feedback and some suggestions.
 
 ## Getting Started
 
